@@ -2,7 +2,7 @@
   "schema_version": 1,
   "kind": "test",
   "date_bjt": "2026-10-14",
-  "generated_at_utc": "2026-10-14T13:25:17Z",
-  "message": "【动态读取测试 A】这条内容来自在线摘要文件。等我更新为 B 后，不改 iPhone 快捷指令，再读取一次即可验证会拿到新内容。",
+  "generated_at_utc": "2026-10-14T13:42:42Z",
+  "message": "【动态读取测试 B】线上内容已更新。你没有改动 iPhone 快捷指令；若现在看到 B，就证明它每次运行都会重新读取最新内容。",
   "items": []
 }
