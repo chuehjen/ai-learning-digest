@@ -129,22 +129,23 @@ def choose_items(items: list[dict], now: datetime, seen: set[str]) -> list[dict]
         key=lambda x: x["_published"],
         reverse=True,
     )
-    # Prefer source announcements, then reporting. Avoid filling all five slots
-    # from a single busy publication. Previously used links are a last resort.
-    ordered = [item for item in candidates if item["url"] not in seen]
-    ordered.extend(item for item in candidates if item["url"] in seen)
+    # Prefer source announcements, then reporting. Only consider previously
+    # published links after exhausting all new stories, even from busy feeds.
+    unseen = [item for item in candidates if item["url"] not in seen]
+    repeated = [item for item in candidates if item["url"] in seen]
     selected = []
     per_source = {}
-    for source_type, target, source_limit in (("primary", 3, 1), ("press", 5, 1), ("any", 5, 2)):
-        for item in ordered:
-            if len(selected) >= target:
-                break
-            if source_type != "any" and item["source_type"] != source_type:
-                continue
-            if item in selected or per_source.get(item["source"], 0) >= source_limit:
-                continue
-            selected.append(item)
-            per_source[item["source"]] = per_source.get(item["source"], 0) + 1
+    for pool in (unseen, repeated):
+        for source_type, target, source_limit in (("primary", 3, 1), ("press", 5, 1), ("any", 5, 2)):
+            for item in pool:
+                if len(selected) >= target:
+                    break
+                if source_type != "any" and item["source_type"] != source_type:
+                    continue
+                if item in selected or per_source.get(item["source"], 0) >= source_limit:
+                    continue
+                selected.append(item)
+                per_source[item["source"]] = per_source.get(item["source"], 0) + 1
     return selected
 
 
