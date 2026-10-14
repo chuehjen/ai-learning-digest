@@ -1,0 +1,28 @@
+name: Build weekly AI learning plan
+
+on:
+  schedule:
+    - cron: '17 8 * * 6'
+      timezone: Asia/Shanghai
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build public learning plan
+        run: python3 scripts/build_weekly.py
+      - name: Publish public learning plan
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add weekly.json archive/weekly
+          if ! git diff --cached --quiet; then
+            git commit -m 'Update weekly AI learning plan'
+            git push
+          fi
