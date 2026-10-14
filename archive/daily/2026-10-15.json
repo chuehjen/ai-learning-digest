@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-15",
+  "generated_at_utc": "2026-10-14T16:00:30.176458Z",
+  "message": "【AI 每日动态｜10月15日】\n1. How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/\n2. The EU’s next chapter in AI is agentic — OpenAI\nhttps://openai.com/index/the-eus-next-chapter-in-ai-is-agentic\n3. Gemini 4 Argon: Built to solve your hardest problems — Google AI\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\n4. Anthropic’s self-replicating AI warning is alarming deja vu — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk\n5. Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace — TechCrunch AI\nhttps://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-14T13:53:33Z"
+    },
+    {
+      "title": "The EU’s next chapter in AI is agentic",
+      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-14T00:00:00Z"
+    },
+    {
+      "title": "Gemini 4 Argon: Built to solve your hardest problems",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-13T16:00:00Z"
+    },
+    {
+      "title": "Anthropic’s self-replicating AI warning is alarming deja vu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-14T15:19:02Z"
+    },
+    {
+      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
+      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-14T15:08:00Z"
+    }
+  ]
+}
