@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-14",
+  "generated_at_utc": "2026-10-14T15:36:18.475280Z",
+  "message": "【AI 每日动态｜10月14日】\n1. Generate presentations with Amazon Bedrock AgentCore — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/\n2. How Third Moment Research runs 10,000 agents for 36+ hours — OpenAI\nhttps://openai.com/index/third-moment-research\n3. Run fast, private agents on-device with LFM2.5-24B-A2B — Hugging Face\nhttps://huggingface.co/blog/LiquidAI/lfm25-24b-a2b\n4. Anthropic’s self-replicating AI warning is an alarming deja vu — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk\n5. Deezer will soon let you filter out AI-generated music — TechCrunch AI\nhttps://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Generate presentations with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/generate-presentations-with-amazon-bedrock-agentcore/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-14T13:58:43Z"
+    },
+    {
+      "title": "How Third Moment Research runs 10,000 agents for 36+ hours",
+      "url": "https://openai.com/index/third-moment-research",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-14T07:00:00Z"
+    },
+    {
+      "title": "Run fast, private agents on-device with LFM2.5-24B-A2B",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm25-24b-a2b",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-13T17:05:48Z"
+    },
+    {
+      "title": "Anthropic’s self-replicating AI warning is an alarming deja vu",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1011108/anthropic-self-replicating-ai-smart-devices-risk",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-14T15:19:02Z"
+    },
+    {
+      "title": "Deezer will soon let you filter out AI-generated music",
+      "url": "https://techcrunch.com/2026/10/14/deezer-will-soon-let-you-filter-out-ai-generated-music/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-14T15:16:04Z"
+    }
+  ]
+}
