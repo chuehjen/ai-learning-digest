@@ -2,43 +2,43 @@
   "schema_version": 1,
   "kind": "daily",
   "date_bjt": "2026-10-15",
-  "generated_at_utc": "2026-10-14T16:01:52.866116Z",
-  "message": "【AI 每日动态｜10月15日】\n1. How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/\n2. The EU’s next chapter in AI is agentic — OpenAI\nhttps://openai.com/index/the-eus-next-chapter-in-ai-is-agentic\n3. Gemini 4 Argon: Built to solve your hardest problems — Google AI\nhttps://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/\n4. Square’s new kiosk lets you talk to AI for help with your order — The Verge AI\nhttps://www.theverge.com/tech/1009086/square-kiosk\n5. Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace — TechCrunch AI\nhttps://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "generated_at_utc": "2026-10-15T01:32:37.213126Z",
+  "message": "【AI 每日动态｜10月15日】\n1. Build self-improving document processing using Amazon Bedrock AgentCore — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/\n2. HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost — Hugging Face\nhttps://huggingface.co/blog/allenai/hiro-acev2\n3. Amp puts AI agents to work beyond code with OpenAI models — OpenAI\nhttps://openai.com/index/amp-beyond-coding\n4. Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis — TechCrunch AI\nhttps://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/\n5. McKinsey is making job applicants spar with a fake AI client — The Verge AI\nhttps://www.theverge.com/news/1011654/mckinsey-ai-client-interview\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "How Tamnoon built AI-powered cloud security remediation with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-tamnoon-built-ai-powered-cloud-security-remediation-with-amazon-bedrock/",
+      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-14T13:53:33Z"
+      "published_at_utc": "2026-10-14T16:24:07Z"
     },
     {
-      "title": "The EU’s next chapter in AI is agentic",
-      "url": "https://openai.com/index/the-eus-next-chapter-in-ai-is-agentic",
+      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
+      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-14T16:12:42Z"
+    },
+    {
+      "title": "Amp puts AI agents to work beyond code with OpenAI models",
+      "url": "https://openai.com/index/amp-beyond-coding",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-14T00:00:00Z"
+      "published_at_utc": "2026-10-14T12:00:00Z"
     },
     {
-      "title": "Gemini 4 Argon: Built to solve your hardest problems",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-      "source": "Google AI",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-13T16:00:00Z"
-    },
-    {
-      "title": "Square’s new kiosk lets you talk to AI for help with your order",
-      "url": "https://www.theverge.com/tech/1009086/square-kiosk",
-      "source": "The Verge AI",
-      "source_type": "press",
-      "published_at_utc": "2026-10-14T16:00:00Z"
-    },
-    {
-      "title": "Zenzap raises $44M for its AI chat app that aims to replace WhatsApp in the workplace",
-      "url": "https://techcrunch.com/2026/10/14/zenzap-raises-44m-for-its-ai-chat-app-that-aims-to-replace-whatsapp-in-the-workplace/",
+      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
+      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-14T15:08:00Z"
+      "published_at_utc": "2026-10-15T01:01:32Z"
+    },
+    {
+      "title": "McKinsey is making job applicants spar with a fake AI client",
+      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-14T22:53:31Z"
     }
   ]
 }
