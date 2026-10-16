@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-15",
-  "generated_at_utc": "2026-10-15T01:32:37.213126Z",
-  "message": "【AI 每日动态｜10月15日】\n1. Build self-improving document processing using Amazon Bedrock AgentCore — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/\n2. HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost — Hugging Face\nhttps://huggingface.co/blog/allenai/hiro-acev2\n3. Amp puts AI agents to work beyond code with OpenAI models — OpenAI\nhttps://openai.com/index/amp-beyond-coding\n4. Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis — TechCrunch AI\nhttps://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/\n5. McKinsey is making job applicants spar with a fake AI client — The Verge AI\nhttps://www.theverge.com/news/1011654/mckinsey-ai-client-interview\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-16",
+  "generated_at_utc": "2026-10-16T01:26:56.554807Z",
+  "message": "【AI 每日动态｜10月16日】\n1. Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint — Hugging Face\nhttps://huggingface.co/blog/ibm-granite/granite-switch-4-1\n2. Bringing GPT-Rosalind to academic research labs — OpenAI\nhttps://openai.com/index/introducing-the-rosalind-academic-plan\n3. Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/\n4. When it came to Cal AI’s viral success, a small army of influencers paid off — TechCrunch AI\nhttps://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/\n5. ChatGPT can peek at your Chrome tabs now — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Build self-improving document processing using Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-self-improving-document-processing-using-amazon-bedrock-agentcore/",
-      "source": "AWS ML",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-14T16:24:07Z"
-    },
-    {
-      "title": "HiRO-ACEv2: Simulating extreme weather at 3 km resolution for a fraction of the cost",
-      "url": "https://huggingface.co/blog/allenai/hiro-acev2",
+      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-10-14T16:12:42Z"
+      "published_at_utc": "2026-10-15T20:34:01Z"
     },
     {
-      "title": "Amp puts AI agents to work beyond code with OpenAI models",
-      "url": "https://openai.com/index/amp-beyond-coding",
+      "title": "Bringing GPT-Rosalind to academic research labs",
+      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-14T12:00:00Z"
+      "published_at_utc": "2026-10-15T19:00:00Z"
     },
     {
-      "title": "Ricursive Intelligence is betting on AI-designed chips to help solve the compute crisis",
-      "url": "https://techcrunch.com/2026/10/14/ricursive-intelligence-is-betting-on-ai-designed-chips-to-help-solve-the-compute-crisis/",
+      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
+      "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-15T17:43:35Z"
+    },
+    {
+      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
+      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-15T01:01:32Z"
+      "published_at_utc": "2026-10-15T23:44:56Z"
     },
     {
-      "title": "McKinsey is making job applicants spar with a fake AI client",
-      "url": "https://www.theverge.com/news/1011654/mckinsey-ai-client-interview",
+      "title": "ChatGPT can peek at your Chrome tabs now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-14T22:53:31Z"
+      "published_at_utc": "2026-10-15T22:43:23Z"
     }
   ]
 }
