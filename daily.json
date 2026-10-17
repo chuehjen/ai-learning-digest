@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-16",
-  "generated_at_utc": "2026-10-16T01:26:56.554807Z",
-  "message": "【AI 每日动态｜10月16日】\n1. Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint — Hugging Face\nhttps://huggingface.co/blog/ibm-granite/granite-switch-4-1\n2. Bringing GPT-Rosalind to academic research labs — OpenAI\nhttps://openai.com/index/introducing-the-rosalind-academic-plan\n3. Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/\n4. When it came to Cal AI’s viral success, a small army of influencers paid off — TechCrunch AI\nhttps://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/\n5. ChatGPT can peek at your Chrome tabs now — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-17",
+  "generated_at_utc": "2026-10-17T01:21:05.851612Z",
+  "message": "【AI 每日动态｜10月17日】\n1. Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/\n2. How Itaú is building generative AI for its entire customer base — OpenAI\nhttps://openai.com/index/itau-generative-ai\n3. Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline — Hugging Face\nhttps://huggingface.co/blog/nvidia/scaling-indic-pretraining\n4. Replit is no longer working with Anthropic, CEO says — TechCrunch AI\nhttps://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/\n5. A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops — The Verge AI\nhttps://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Granite Switch 4.1: Chat, Decisions, and Speech from One Endpoint",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1",
-      "source": "Hugging Face",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-15T20:34:01Z"
-    },
-    {
-      "title": "Bringing GPT-Rosalind to academic research labs",
-      "url": "https://openai.com/index/introducing-the-rosalind-academic-plan",
-      "source": "OpenAI",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-15T19:00:00Z"
-    },
-    {
-      "title": "Meta’s Muse Spark Open now available in Amazon SageMaker JumpStart",
-      "url": "https://aws.amazon.com/blogs/machine-learning/metas-muse-spark-open-now-available-in-amazon-sagemaker-jumpstart/",
+      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-15T17:43:35Z"
+      "published_at_utc": "2026-10-16T20:48:16Z"
     },
     {
-      "title": "When it came to Cal AI’s viral success, a small army of influencers paid off",
-      "url": "https://techcrunch.com/2026/10/15/when-it-came-to-cal-ais-viral-success-a-small-army-of-influencers-paid-off/",
+      "title": "How Itaú is building generative AI for its entire customer base",
+      "url": "https://openai.com/index/itau-generative-ai",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-16T19:00:00Z"
+    },
+    {
+      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
+      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-16T01:44:47Z"
+    },
+    {
+      "title": "Replit is no longer working with Anthropic, CEO says",
+      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-15T23:44:56Z"
+      "published_at_utc": "2026-10-16T21:22:28Z"
     },
     {
-      "title": "ChatGPT can peek at your Chrome tabs now",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1012510/openai-chatgpt-google-chrome-tabs",
+      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-15T22:43:23Z"
+      "published_at_utc": "2026-10-16T15:00:00Z"
     }
   ]
 }
