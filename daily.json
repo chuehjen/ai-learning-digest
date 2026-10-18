@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-17",
-  "generated_at_utc": "2026-10-17T01:21:05.851612Z",
-  "message": "【AI 每日动态｜10月17日】\n1. Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/\n2. How Itaú is building generative AI for its entire customer base — OpenAI\nhttps://openai.com/index/itau-generative-ai\n3. Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline — Hugging Face\nhttps://huggingface.co/blog/nvidia/scaling-indic-pretraining\n4. Replit is no longer working with Anthropic, CEO says — TechCrunch AI\nhttps://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/\n5. A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops — The Verge AI\nhttps://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-18",
+  "generated_at_utc": "2026-10-18T01:09:14.757373Z",
+  "message": "【AI 每日动态｜10月18日】\n1. Introducing Reflection Beam: an open-weight model for agentic coding on AWS — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/\n2. Benefit Street Partners answers questions faster with Codex — OpenAI\nhttps://openai.com/index/benefit-street-partners\n3. Welcome Beam: a 501B open model you can own, customize, and scale — Hugging Face\nhttps://huggingface.co/blog/reflection-beam\n4. Meta removes language that raised scraping and AI training concerns — TechCrunch AI\nhttps://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/\n5. Meta removes language that may have allowed it to scrape news sites — The Verge AI\nhttps://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Building trust in AI agents: A production-ready evaluation framework with Amazon Bedrock AgentCore",
-      "url": "https://aws.amazon.com/blogs/machine-learning/building-trust-in-ai-agents-a-production-ready-evaluation-framework-with-amazon-bedrock-agentcore/",
+      "title": "Introducing Reflection Beam: an open-weight model for agentic coding on AWS",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-reflection-beam-an-open-weight-model-for-agentic-coding-on-aws/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-16T20:48:16Z"
+      "published_at_utc": "2026-10-16T15:23:10Z"
     },
     {
-      "title": "How Itaú is building generative AI for its entire customer base",
-      "url": "https://openai.com/index/itau-generative-ai",
+      "title": "Benefit Street Partners answers questions faster with Codex",
+      "url": "https://openai.com/index/benefit-street-partners",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-16T19:00:00Z"
+      "published_at_utc": "2026-10-16T00:00:00Z"
     },
     {
-      "title": "Scaling Indic Pretraining: 2.8 Trillion Tokens and an Open Data Generation Pipeline",
-      "url": "https://huggingface.co/blog/nvidia/scaling-indic-pretraining",
+      "title": "Welcome Beam: a 501B open model you can own, customize, and scale",
+      "url": "https://huggingface.co/blog/reflection-beam",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-10-16T01:44:47Z"
+      "published_at_utc": "2026-10-16T00:00:00Z"
     },
     {
-      "title": "Replit is no longer working with Anthropic, CEO says",
-      "url": "https://techcrunch.com/2026/10/16/replit-is-no-longer-working-with-anthropic-ceo-says/",
+      "title": "Meta removes language that raised scraping and AI training concerns",
+      "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-16T21:22:28Z"
+      "published_at_utc": "2026-10-17T21:31:32Z"
     },
     {
-      "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
+      "title": "Meta removes language that may have allowed it to scrape news sites",
+      "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-16T15:00:00Z"
+      "published_at_utc": "2026-10-17T15:04:36Z"
     }
   ]
 }
