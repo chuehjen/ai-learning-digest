@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-19",
+  "generated_at_utc": "2026-10-19T01:20:41.700902Z",
+  "message": "【AI 每日动态｜10月19日】\n1. Stack Overflow for Agents triples signups with ChatGPT plugin — OpenAI\nhttps://openai.com/index/stack-overflow-chatgpt-plugin\n2. Trust in Depth: Giving agents more autonomy without losing control — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/\n3. Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta — Hugging Face\nhttps://huggingface.co/blog/meta-muse-spark-open\n4. Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’ — TechCrunch AI\nhttps://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/\n5. A woman was arrested in Philly for blocking a delivery robot — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Stack Overflow for Agents triples signups with ChatGPT plugin",
+      "url": "https://openai.com/index/stack-overflow-chatgpt-plugin",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-16T00:00:00Z"
+    },
+    {
+      "title": "Trust in Depth: Giving agents more autonomy without losing control",
+      "url": "https://aws.amazon.com/blogs/machine-learning/trust-in-depth-giving-agents-more-autonomy-without-losing-control/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-15T15:05:35Z"
+    },
+    {
+      "title": "Welcome Muse Spark Open: open-weight frontier multimodal mixture-of-experts model from Meta",
+      "url": "https://huggingface.co/blog/meta-muse-spark-open",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-15T00:00:00Z"
+    },
+    {
+      "title": "Anthropic says it’s committing 5% of its shares to a ‘public benefit fund’",
+      "url": "https://techcrunch.com/2026/10/18/anthropic-says-its-committing-5-of-its-shares-to-a-public-benefit-fund/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-18T20:37:40Z"
+    },
+    {
+      "title": "A woman was arrested in Philly for blocking a delivery robot",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1013541/a-woman-was-arrested-in-philly-for-blocking-a-delivery-robot",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-18T18:28:10Z"
+    }
+  ]
+}
