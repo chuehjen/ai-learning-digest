@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-20",
-  "generated_at_utc": "2026-10-20T01:53:27.928893Z",
-  "message": "【AI 每日动态｜10月20日】\n1. Structured outputs for Anthropic Claude models on Amazon Bedrock — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/\n2. Advancing coding in low‑resource programming languages — OpenAI\nhttps://openai.com/index/low-resource-programming-languages\n3. TorchNeuron: running HF models on AWS Trainium is easier than ever — Hugging Face\nhttps://huggingface.co/blog/hf-torchneuron\n4. Mamdani says feds have abdicated on AI, urges New Yorkers to push back — TechCrunch AI\nhttps://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/\n5. The fossil fuel comeback is here — The Verge AI\nhttps://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-21",
+  "generated_at_utc": "2026-10-21T01:39:58.090375Z",
+  "message": "【AI 每日动态｜10月21日】\n1. Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/\n2. NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation — Hugging Face\nhttps://huggingface.co/blog/nvidia/cosmos3-h-dreams\n3. Franchisee reconciles cash in 94% less time with ChatGPT Work — OpenAI\nhttps://openai.com/index/ted-taylor-restaurant\n4. Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed\n5. Anthropic pitches AI safety bill that may block a model if 50+ people could be killed — TechCrunch AI\nhttps://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Structured outputs for Anthropic Claude models on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/structured-outputs-for-anthropic-claude-models-on-amazon-bedrock/",
+      "title": "Beyond the KV cache: Training and serving i14’s Laplace 3B linear attention model on AWS Trainium2 with native PyTorch",
+      "url": "https://aws.amazon.com/blogs/machine-learning/beyond-the-kv-cache-training-and-serving-i14s-laplace-3b-linear-attention-model-on-aws-trainium2-with-native-pytorch/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-19T23:32:19Z"
+      "published_at_utc": "2026-10-20T21:14:10Z"
     },
     {
-      "title": "Advancing coding in low‑resource programming languages",
-      "url": "https://openai.com/index/low-resource-programming-languages",
-      "source": "OpenAI",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-19T12:00:00Z"
-    },
-    {
-      "title": "TorchNeuron: running HF models on AWS Trainium is easier than ever",
-      "url": "https://huggingface.co/blog/hf-torchneuron",
+      "title": "NVIDIA Cosmos3-H-Dreams: Bringing Clinical Surgery to Life Through Generative Simulation",
+      "url": "https://huggingface.co/blog/nvidia/cosmos3-h-dreams",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-10-19T00:00:00Z"
+      "published_at_utc": "2026-10-20T18:17:47Z"
     },
     {
-      "title": "Mamdani says feds have abdicated on AI, urges New Yorkers to push back",
-      "url": "https://techcrunch.com/2026/10/19/mamdani-says-feds-have-abdicated-on-ai-urges-new-yorkers-to-push-back/",
-      "source": "TechCrunch AI",
-      "source_type": "press",
-      "published_at_utc": "2026-10-20T01:27:03Z"
+      "title": "Franchisee reconciles cash in 94% less time with ChatGPT Work",
+      "url": "https://openai.com/index/ted-taylor-restaurant",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-20T10:00:00Z"
     },
     {
-      "title": "The fossil fuel comeback is here",
-      "url": "https://www.theverge.com/science/1013954/fossil-fuel-power-infrastructure-data-centers-report",
+      "title": "Judge dismisses Sam Altman’s sister’s sexual abuse lawsuit",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1014976/sam-altman-ann-altman-lawsuit-dismissed",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-19T21:48:01Z"
+      "published_at_utc": "2026-10-20T23:04:19Z"
+    },
+    {
+      "title": "Anthropic pitches AI safety bill that may block a model if 50+ people could be killed",
+      "url": "https://techcrunch.com/2026/10/20/anthropic-pitches-ai-safety-bill-that-may-block-a-model-if-50-people-could-be-killed/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-20T23:01:23Z"
     }
   ]
 }
