@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-22",
+  "generated_at_utc": "2026-10-22T01:35:14.246505Z",
+  "message": "【AI 每日动态｜10月22日】\n1. Securing Quick access from corporate networks with AWS PrivateLink — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/\n2. Broad access through consistent standards — OpenAI\nhttps://openai.com/index/broad-access-through-consistent-standards\n3. NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required — Hugging Face\nhttps://huggingface.co/blog/nvidia/kumo-relational\n4. Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown — TechCrunch AI\nhttps://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/\n5. Data centers could erase decades of air quality gains — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Securing Quick access from corporate networks with AWS PrivateLink",
+      "url": "https://aws.amazon.com/blogs/machine-learning/securing-quick-access-from-corporate-networks-with-aws-privatelink/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-21T23:38:38Z"
+    },
+    {
+      "title": "Broad access through consistent standards",
+      "url": "https://openai.com/index/broad-access-through-consistent-standards",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-21T21:00:00Z"
+    },
+    {
+      "title": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-21T18:26:30Z"
+    },
+    {
+      "title": "Blackstone’s Jas Khaira says fears over AI-buildout debt are overblown",
+      "url": "https://techcrunch.com/2026/10/21/blackstones-jas-khaira-says-fears-over-ai-buildout-debt-are-overblown/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-21T22:51:22Z"
+    },
+    {
+      "title": "Data centers could erase decades of air quality gains",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1015958/data-center-pollution-rising-report",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-21T22:33:44Z"
+    }
+  ]
+}
