@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "kind": "weekly",
+  "date_bjt": "2026-10-24",
+  "generated_at_utc": "2026-10-24T04:44:03.677942Z",
+  "week_number": 2,
+  "message": "【AI 系统学习｜第2周｜提示词与任务拆解】\n主课视频：ChatGPT Prompt Engineering for Developers\nhttps://www.deeplearning.ai/courses/chatgpt-prompt-eng\n配套播客：The Ultimate Guide to Prompting\nhttps://www.latent.space/p/learn-prompting\n本周 5 小时：看课与笔记 90 分钟；听播客 60 分钟；动手练习 120 分钟；复盘 30 分钟。\n练习：把一个工作任务写成 3 版提示词，比较输出质量、核验时间和总耗时。\n课程可能需要登录；以页面实际开放内容为准。",
+  "items": [
+    {
+      "title": "ChatGPT Prompt Engineering for Developers",
+      "url": "https://www.deeplearning.ai/courses/chatgpt-prompt-eng",
+      "source": "Course",
+      "format": "video"
+    },
+    {
+      "title": "The Ultimate Guide to Prompting",
+      "url": "https://www.latent.space/p/learn-prompting",
+      "source": "Latent Space",
+      "format": "podcast"
+    }
+  ]
+}
