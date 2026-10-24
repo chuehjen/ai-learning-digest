@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-24",
+  "generated_at_utc": "2026-10-24T01:39:43.737174Z",
+  "message": "【AI 每日动态｜10月24日】\n1. Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/\n2. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) — OpenAI\nhttps://openai.com/index/scaling-storage-one-billion-users-part-two\n3. LitPivot: Developing research ideas through dynamic contextualization within the literature landscape — Hugging Face\nhttps://huggingface.co/blog/allenai/litpivot\n4. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” — TechCrunch AI\nhttps://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/\n5. OpenAI now trains its frontier AI models with no internet access — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
+      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-23T17:48:54Z"
+    },
+    {
+      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
+      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-23T17:00:00Z"
+    },
+    {
+      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
+      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-23T16:15:50Z"
+    },
+    {
+      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
+      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-23T23:05:49Z"
+    },
+    {
+      "title": "OpenAI now trains its frontier AI models with no internet access",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-23T21:11:07Z"
+    }
+  ]
+}
