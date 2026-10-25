@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-24",
-  "generated_at_utc": "2026-10-24T01:39:43.737174Z",
-  "message": "【AI 每日动态｜10月24日】\n1. Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/\n2. Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II) — OpenAI\nhttps://openai.com/index/scaling-storage-one-billion-users-part-two\n3. LitPivot: Developing research ideas through dynamic contextualization within the literature landscape — Hugging Face\nhttps://huggingface.co/blog/allenai/litpivot\n4. OpenAI says it will no longer train its AI models on the live internet, citing “significant risks” — TechCrunch AI\nhttps://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/\n5. OpenAI now trains its frontier AI models with no internet access — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-25",
+  "generated_at_utc": "2026-10-25T01:15:27.828357Z",
+  "message": "【AI 每日动态｜10月25日】\n1. Orchestrating SageMaker AI endpoint auto scaling with AWS CDK — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/\n2. Securing our frontier model training environment — OpenAI\nhttps://openai.com/index/securing-our-frontier-model-training-environment\n3. Does Your Model Run on AWS Trainium? Look It Up — Hugging Face\nhttps://huggingface.co/blog/torch-neuronx-model-support\n4. Blue Planet III is keeping the rough edges in the age of AI — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai\n5. The AI graveyard: a running list of projects and startups that didn’t make it — TechCrunch AI\nhttps://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Multi-Turn Reinforcement Learning on Amazon SageMaker AI: A hands-on guide",
-      "url": "https://aws.amazon.com/blogs/machine-learning/multi-turn-reinforcement-learning-on-amazon-sagemaker-ai-a-hands-on-guide/",
+      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
+      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-23T17:48:54Z"
+      "published_at_utc": "2026-10-23T16:30:10Z"
     },
     {
-      "title": "Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)",
-      "url": "https://openai.com/index/scaling-storage-one-billion-users-part-two",
+      "title": "Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-23T17:00:00Z"
+      "published_at_utc": "2026-10-23T10:00:00Z"
     },
     {
-      "title": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
+      "title": "Does Your Model Run on AWS Trainium? Look It Up",
+      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-10-23T16:15:50Z"
+      "published_at_utc": "2026-10-23T00:00:00Z"
     },
     {
-      "title": "OpenAI says it will no longer train its AI models on the live internet, citing “significant risks”",
-      "url": "https://techcrunch.com/2026/10/23/openai-says-it-will-no-longer-train-its-ai-models-on-the-live-internet-citing-significant-risks/",
-      "source": "TechCrunch AI",
-      "source_type": "press",
-      "published_at_utc": "2026-10-23T23:05:49Z"
-    },
-    {
-      "title": "OpenAI now trains its frontier AI models with no internet access",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018021/openai-training-top-ai-models-no-internet",
+      "title": "Blue Planet III is keeping the rough edges in the age of AI",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-23T21:11:07Z"
+      "published_at_utc": "2026-10-24T21:29:12Z"
+    },
+    {
+      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
+      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-24T19:00:00Z"
     }
   ]
 }
