@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-25",
-  "generated_at_utc": "2026-10-25T01:15:27.828357Z",
-  "message": "【AI 每日动态｜10月25日】\n1. Orchestrating SageMaker AI endpoint auto scaling with AWS CDK — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/\n2. Securing our frontier model training environment — OpenAI\nhttps://openai.com/index/securing-our-frontier-model-training-environment\n3. Does Your Model Run on AWS Trainium? Look It Up — Hugging Face\nhttps://huggingface.co/blog/torch-neuronx-model-support\n4. Blue Planet III is keeping the rough edges in the age of AI — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai\n5. The AI graveyard: a running list of projects and startups that didn’t make it — TechCrunch AI\nhttps://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-26",
+  "generated_at_utc": "2026-10-26T01:16:27.591408Z",
+  "message": "【AI 每日动态｜10月26日】\n1. Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/\n2. OpenAI and Poland’s NASK partner to advance AI safety and security — OpenAI\nhttps://openai.com/index/openai-nask-ai-safety-security-partnership\n3. Ensemble forecasting with IBM Granite time-series models — Hugging Face\nhttps://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1\n4. Grok releases the first seven minutes of its AI-generated ‘Odyssey’ — TechCrunch AI\nhttps://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/\n5. r/opensource just banned AI, non-English speakers, and more — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Orchestrating SageMaker AI endpoint auto scaling with AWS CDK",
-      "url": "https://aws.amazon.com/blogs/machine-learning/orchestrating-sagemaker-ai-endpoint-auto-scaling-with-aws-cdk/",
+      "title": "Visualize points and routes with GeoJSON in Amazon Quick Sight layer maps",
+      "url": "https://aws.amazon.com/blogs/machine-learning/visualize-points-and-routes-with-geojson-in-amazon-quick-sight-layer-maps/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-23T16:30:10Z"
+      "published_at_utc": "2026-10-23T16:24:55Z"
     },
     {
-      "title": "Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "title": "OpenAI and Poland’s NASK partner to advance AI safety and security",
+      "url": "https://openai.com/index/openai-nask-ai-safety-security-partnership",
       "source": "OpenAI",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-23T10:00:00Z"
-    },
-    {
-      "title": "Does Your Model Run on AWS Trainium? Look It Up",
-      "url": "https://huggingface.co/blog/torch-neuronx-model-support",
-      "source": "Hugging Face",
       "source_type": "primary",
       "published_at_utc": "2026-10-23T00:00:00Z"
     },
     {
-      "title": "Blue Planet III is keeping the rough edges in the age of AI",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1018205/blue-planet-iii-authentic-organic-ai",
-      "source": "The Verge AI",
-      "source_type": "press",
-      "published_at_utc": "2026-10-24T21:29:12Z"
+      "title": "Ensemble forecasting with IBM Granite time-series models",
+      "url": "https://huggingface.co/blog/ibm-research/granite-timeseries-ensemble-r1",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-22T07:51:31Z"
     },
     {
-      "title": "The AI graveyard: a running list of projects and startups that didn’t make it",
-      "url": "https://techcrunch.com/2026/10/24/the-ai-graveyard-a-running-list-of-projects-and-startups-that-didnt-make-it/",
+      "title": "Grok releases the first seven minutes of its AI-generated ‘Odyssey’",
+      "url": "https://techcrunch.com/2026/10/25/grok-releases-the-first-seven-minutes-of-its-ai-generated-odyssey/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-24T19:00:00Z"
+      "published_at_utc": "2026-10-25T21:31:16Z"
+    },
+    {
+      "title": "r/opensource just banned AI, non-English speakers, and more",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1018217/reddit-opensource-ai-ban",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-25T13:25:32Z"
     }
   ]
 }
