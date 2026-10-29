@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-10-28",
-  "generated_at_utc": "2026-10-28T02:21:38.432424Z",
-  "message": "【AI 每日动态｜10月28日】\n1. AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/\n2. Build specialized multimodal models with LFM3 — Hugging Face\nhttps://huggingface.co/blog/LiquidAI/lfm3\n3. Retell uses OpenAI models to help power 100M monthly calls — OpenAI\nhttps://openai.com/index/retell-ai\n4. VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more — TechCrunch AI\nhttps://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/\n5. Researchers are getting tired of OpenAI gatekeeping its breakthroughs — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-10-29",
+  "generated_at_utc": "2026-10-29T02:29:14.484722Z",
+  "message": "【AI 每日动态｜10月29日】\n1. Building an Agentic AI Platform on Amazon Bedrock AgentCore — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/\n2. NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt — Hugging Face\nhttps://huggingface.co/blog/nvidia/nemotron-transcribe-granary\n3. OpenAI and ServiceNow expand partnership across enterprise workflows — OpenAI\nhttps://openai.com/index/openai-servicenow-partnership-expansion\n4. Adam Mosseri says negativity around AI is ‘going to get worse’ — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity\n5. Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion — TechCrunch AI\nhttps://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "AWS named a Leader in the 2026 Gartner Magic Quadrant for Contact Center as a Service",
-      "url": "https://aws.amazon.com/blogs/machine-learning/aws-named-a-leader-in-the-2026-gartner-magic-quadrant-for-contact-center-as-a-service/",
+      "title": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+      "url": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-10-27T18:03:12Z"
+      "published_at_utc": "2026-10-28T18:28:26Z"
     },
     {
-      "title": "Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "title": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-10-27T17:16:52Z"
+      "published_at_utc": "2026-10-28T14:58:17Z"
     },
     {
-      "title": "Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
+      "title": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-27T15:00:00Z"
+      "published_at_utc": "2026-10-28T13:15:00Z"
     },
     {
-      "title": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
-      "url": "https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more/",
-      "source": "TechCrunch AI",
-      "source_type": "press",
-      "published_at_utc": "2026-10-28T01:15:28Z"
-    },
-    {
-      "title": "Researchers are getting tired of OpenAI gatekeeping its breakthroughs",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019921/openai-breakthrough-math-computer-science-physics",
+      "title": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-27T20:48:58Z"
+      "published_at_utc": "2026-10-28T23:05:39Z"
+    },
+    {
+      "title": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+      "url": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-28T21:58:32Z"
     }
   ]
 }
