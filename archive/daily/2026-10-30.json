@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-30",
+  "generated_at_utc": "2026-10-30T02:39:49.706850Z",
+  "message": "【AI 每日动态｜10月30日】\n1. How the UK Amazon Quick User Group grew in 2026 — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/\n2. An updated Model Spec for more capable and beneficial AI — OpenAI\nhttps://openai.com/index/updated-model-spec\n3. Granite Switch 4.1.1 — Update models like you update software — Hugging Face\nhttps://huggingface.co/blog/ibm-granite/granite-switch-4-1-1\n4. You don’t need to believe in a god to get a religious exemption from using AI at work — TechCrunch AI\nhttps://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/\n5. You can generate and edit Google Docs files directly in Gemini chats now — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "How the UK Amazon Quick User Group grew in 2026",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-the-uk-amazon-quick-user-group-grew-in-2026/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-29T20:16:40Z"
+    },
+    {
+      "title": "An updated Model Spec for more capable and beneficial AI",
+      "url": "https://openai.com/index/updated-model-spec",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-29T17:00:00Z"
+    },
+    {
+      "title": "Granite Switch 4.1.1 — Update models like you update software",
+      "url": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-29T13:37:07Z"
+    },
+    {
+      "title": "You don’t need to believe in a god to get a religious exemption from using AI at work",
+      "url": "https://techcrunch.com/2026/10/29/you-dont-need-to-believe-in-a-god-to-get-a-religious-exemption-from-using-ai-at-work/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-30T01:20:48Z"
+    },
+    {
+      "title": "You can generate and edit Google Docs files directly in Gemini chats now",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1022519/google-gemini-file-editing-documents-pdfs",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-29T18:45:31Z"
+    }
+  ]
+}
