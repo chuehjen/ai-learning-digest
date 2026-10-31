@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-10-31",
+  "generated_at_utc": "2026-10-31T02:28:23.633640Z",
+  "message": "【AI 每日动态｜10月31日】\n1. Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/\n2. nemotron-halloween — Hugging Face\nhttps://huggingface.co/blog/nvidia/nemotron-halloween\n3. Making it easier for websites to express AI training preferences — OpenAI\nhttps://openai.com/index/helping-websites-express-ai-training-preferences\n4. Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia — TechCrunch AI\nhttps://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/\n5. Apple Intelligence is finally coming to China with iOS 27.3 — The Verge AI\nhttps://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Managing Amazon Bedrock costs end to end: A playbook for FinOps and platform teams",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managing-amazon-bedrock-costs-end-to-end-a-playbook-for-finops-and-platform-teams/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-30T22:42:24Z"
+    },
+    {
+      "title": "nemotron-halloween",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-halloween",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-30T17:57:24Z"
+    },
+    {
+      "title": "Making it easier for websites to express AI training preferences",
+      "url": "https://openai.com/index/helping-websites-express-ai-training-preferences",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-30T09:30:00Z"
+    },
+    {
+      "title": "Nvidia weighs playing the cosigner for Nscale’s AI data center in West Virginia",
+      "url": "https://techcrunch.com/2026/10/30/nvidia-weighs-playing-the-cosigner-for-nscales-ai-data-center-in-west-virginia/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-31T01:20:05Z"
+    },
+    {
+      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-30T22:32:53Z"
+    }
+  ]
+}
