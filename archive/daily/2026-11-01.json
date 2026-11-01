@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-01",
+  "generated_at_utc": "2026-11-01T02:18:46.072811Z",
+  "message": "【AI 每日动态｜11月01日】\n1. Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/\n2. Community safety report and new protections for teens — OpenAI\nhttps://openai.com/index/community-safety-report-and-new-protections-for-teens\n3. Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready — Hugging Face\nhttps://huggingface.co/blog/announcing-project-protostar\n4. Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’ — TechCrunch AI\nhttps://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/\n5. I built an AI Tamagotchi before Meta could — The Verge AI\nhttps://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Preview web apps live as your coding agent builds them with Amazon Bedrock AgentCore runtime",
+      "url": "https://aws.amazon.com/blogs/machine-learning/preview-web-apps-live-as-your-coding-agent-builds-them-with-amazon-bedrock-agentcore-runtime/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-30T21:40:03Z"
+    },
+    {
+      "title": "Community safety report and new protections for teens",
+      "url": "https://openai.com/index/community-safety-report-and-new-protections-for-teens",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-30T09:00:00Z"
+    },
+    {
+      "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+      "url": "https://huggingface.co/blog/announcing-project-protostar",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-10-29T00:00:00Z"
+    },
+    {
+      "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+      "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-31T21:41:00Z"
+    },
+    {
+      "title": "I built an AI Tamagotchi before Meta could",
+      "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-10-31T16:05:00Z"
+    }
+  ]
+}
