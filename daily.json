@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-02",
-  "generated_at_utc": "2026-11-02T02:34:48.849986Z",
-  "message": "【AI 每日动态｜11月02日】\n1. How Worldwide Express automated freight exceptions with Amazon Bedrock — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/\n2. Fair use benefits everyone — OpenAI\nhttps://openai.com/index/fair-use-benefits-everyone\n3. Welcome Le Chonk: Mistral Large 4 on Hugging Face — Hugging Face\nhttps://huggingface.co/blog/mistral-large4\n4. OpenAI might rebrand its data centers as ‘AI compute campuses’ — TechCrunch AI\nhttps://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/\n5. Sam Altman says it’s better for RAM to be in a data center than on your desk — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-03",
+  "generated_at_utc": "2026-11-03T03:56:50.532744Z",
+  "message": "【AI 每日动态｜11月03日】\n1. Rewarding defenders with bigger bug bounties — OpenAI\nhttps://openai.com/index/rewarding-defenders-with-bigger-bug-bounties\n2. The latest AI news we announced in October 2026 — Google AI\nhttps://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/\n3. Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/\n4. Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses — TechCrunch AI\nhttps://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/\n5. Anthropic clamps down on Claude’s AI video game clones — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "How Worldwide Express automated freight exceptions with Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/how-worldwide-express-automated-freight-exceptions-with-amazon-bedrock/",
-      "source": "AWS ML",
-      "source_type": "primary",
-      "published_at_utc": "2026-10-30T17:32:20Z"
-    },
-    {
-      "title": "Fair use benefits everyone",
-      "url": "https://openai.com/index/fair-use-benefits-everyone",
+      "title": "Rewarding defenders with bigger bug bounties",
+      "url": "https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-30T00:00:00Z"
+      "published_at_utc": "2026-11-02T18:00:00Z"
     },
     {
-      "title": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
-      "url": "https://huggingface.co/blog/mistral-large4",
-      "source": "Hugging Face",
+      "title": "The latest AI news we announced in October 2026",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-october-2026/",
+      "source": "Google AI",
       "source_type": "primary",
-      "published_at_utc": "2026-10-29T00:00:00Z"
+      "published_at_utc": "2026-11-02T17:45:00Z"
     },
     {
-      "title": "OpenAI might rebrand its data centers as ‘AI compute campuses’",
-      "url": "https://techcrunch.com/2026/11/01/openai-might-rebrand-its-data-centers-as-ai-compute-campuses/",
+      "title": "Prepare web content for Amazon Bedrock Knowledge Bases with Crawl4AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/prepare-web-content-for-amazon-bedrock-knowledge-bases-with-crawl4ai/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-02T17:11:21Z"
+    },
+    {
+      "title": "Google takes Dreambeans to India in bid to bring AI-generated personal stories to the masses",
+      "url": "https://techcrunch.com/2026/11/02/google-takes-dreambeans-to-india-in-bid-to-bring-ai-generated-personal-stories-to-the-masses/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-01T21:55:23Z"
+      "published_at_utc": "2026-11-03T03:30:00Z"
     },
     {
-      "title": "Sam Altman says it’s better for RAM to be in a data center than on your desk",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1023820/sam-altman-ram-shortage-cloud-servers",
+      "title": "Anthropic clamps down on Claude’s AI video game clones",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1024632/anthropic-claude-ai-video-game-clones",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-10-30T20:48:43Z"
+      "published_at_utc": "2026-11-02T18:56:02Z"
     }
   ]
 }
