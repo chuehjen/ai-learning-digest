@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-05",
+  "generated_at_utc": "2026-11-05T03:31:50.164177Z",
+  "message": "【AI 每日动态｜11月05日】\n1. Use decision models with Amazon Bedrock AgentCore Evaluations — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/\n2. Dharma Field Extractor: Any Document In, Structured Fields in JSON Out — Hugging Face\nhttps://huggingface.co/blog/Dharma-AI/dharma-field-extractor\n3. OpenAI to acquire Pierre Computer Company, Inc. — OpenAI\nhttps://openai.com/index/openai-to-acquire-pierre\n4. Apple is reportedly cutting budgets for its internal AI usage — TechCrunch AI\nhttps://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/\n5. Qualcomm is betting big on data centers as smartphone sales sink — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Use decision models with Amazon Bedrock AgentCore Evaluations",
+      "url": "https://aws.amazon.com/blogs/machine-learning/use-decision-models-with-amazon-bedrock-agentcore-evaluations/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-04T18:46:36Z"
+    },
+    {
+      "title": "Dharma Field Extractor: Any Document In, Structured Fields in JSON Out",
+      "url": "https://huggingface.co/blog/Dharma-AI/dharma-field-extractor",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-04T17:50:10Z"
+    },
+    {
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-04T14:30:00Z"
+    },
+    {
+      "title": "Apple is reportedly cutting budgets for its internal AI usage",
+      "url": "https://techcrunch.com/2026/11/04/apple-is-reportedly-cutting-budgets-for-its-internal-ai-usage/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-05T01:26:22Z"
+    },
+    {
+      "title": "Qualcomm is betting big on data centers as smartphone sales sink",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-04T22:42:15Z"
+    }
+  ]
+}
