@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "kind": "weekly",
+  "date_bjt": "2026-11-07",
+  "generated_at_utc": "2026-11-07T06:07:27.736916Z",
+  "week_number": 4,
+  "message": "【AI 系统学习｜第4周｜检索增强生成 RAG】\n主课视频：Building and Evaluating Advanced RAG\nhttps://www.deeplearning.ai/courses/building-evaluating-advanced-rag\n配套播客：RAG Is A Hack\nhttps://www.latent.space/p/llamaindex\n本周 5 小时：看课与笔记 90 分钟；听播客 60 分钟；动手练习 120 分钟；复盘 30 分钟。\n练习：选一份公开文档，设计 5 个检索问题，并区分有证据的回答与无法回答的情况。\n课程可能需要登录；以页面实际开放内容为准。",
+  "items": [
+    {
+      "title": "Building and Evaluating Advanced RAG",
+      "url": "https://www.deeplearning.ai/courses/building-evaluating-advanced-rag",
+      "source": "Course",
+      "format": "video"
+    },
+    {
+      "title": "RAG Is A Hack",
+      "url": "https://www.latent.space/p/llamaindex",
+      "source": "Latent Space",
+      "format": "podcast"
+    }
+  ]
+}
