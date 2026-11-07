@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-07",
+  "generated_at_utc": "2026-11-07T02:52:47.532195Z",
+  "message": "【AI 每日动态｜11月07日】\n1. SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/\n2. ToyBlocks: A controlled world for robot learning and evaluation — Hugging Face\nhttps://huggingface.co/blog/allenai/toyblocks\n3. Partnering with Hacktron to find vulnerabilities in OpenAI’s systems — OpenAI\nhttps://openai.com/index/partnering-with-hacktron\n4. Crusoe sells troubled Wyoming data center project to Google — TechCrunch AI\nhttps://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/\n5. OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "SageMaker Inference now supports Multi-Instance GPU to maximize GPU utilization for model endpoints",
+      "url": "https://aws.amazon.com/blogs/machine-learning/sagemaker-inference-now-supports-multi-instance-gpu-to-maximize-gpu-utilization-for-model-endpoints/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T18:01:00Z"
+    },
+    {
+      "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+      "url": "https://huggingface.co/blog/allenai/toyblocks",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T14:00:48Z"
+    },
+    {
+      "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
+      "url": "https://openai.com/index/partnering-with-hacktron",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T08:00:00Z"
+    },
+    {
+      "title": "Crusoe sells troubled Wyoming data center project to Google",
+      "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-07T01:40:28Z"
+    },
+    {
+      "title": "OpenAI valued at $1.25 trillion, as rival Anthropic nears its IPO",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029380/openai-1-25-trillion-investment-valuation",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-06T23:46:18Z"
+    }
+  ]
+}
