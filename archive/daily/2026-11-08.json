@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-08",
+  "generated_at_utc": "2026-11-08T02:32:48.714044Z",
+  "message": "【AI 每日动态｜11月08日】\n1. Taxonomy of agentic primitives in Amazon Quick — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/\n2. Measuring how AI agents handle everyday wet-lab science — OpenAI\nhttps://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science\n3. Egyptian and Nigerian English join the Open ASR Leaderboard — Hugging Face\nhttps://huggingface.co/blog/open-asr-leaderboard-liva\n4. After the midterms, things are looking rocky for Elon Musk and data centers — TechCrunch AI\nhttps://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/\n5. NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake — The Verge AI\nhttps://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Taxonomy of agentic primitives in Amazon Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/taxonomy-of-agentic-primitives-in-amazon-quick/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T17:34:45Z"
+    },
+    {
+      "title": "Measuring how AI agents handle everyday wet-lab science",
+      "url": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
+      "url": "https://huggingface.co/blog/open-asr-leaderboard-liva",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T00:00:00Z"
+    },
+    {
+      "title": "After the midterms, things are looking rocky for Elon Musk and data centers",
+      "url": "https://techcrunch.com/2026/11/07/after-the-midterms-things-are-looking-rocky-for-elon-musk-and-data-centers/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-07T22:07:22Z"
+    },
+    {
+      "title": "NYT Cooking’s AI assistant saved my weeknight chicken, but almost ruined my cake",
+      "url": "https://www.theverge.com/tech/1029489/nyt-cooking-ai-assistant-review",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-07T15:50:00Z"
+    }
+  ]
+}
