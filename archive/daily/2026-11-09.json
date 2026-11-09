@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-09",
+  "generated_at_utc": "2026-11-09T02:43:19.834868Z",
+  "message": "【AI 每日动态｜11月09日】\n1. Serverless MCP server for AI agent data lake access on Amazon ECS Fargate — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/\n2. Australian universities are creating AI-native graduates — OpenAI\nhttps://openai.com/index/australian-universities-ai-native-graduates\n3. Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips — Google AI\nhttps://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/\n4. Here’s the full text of Jensen Huang’s memo to Nvidia — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia\n5. Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy — TechCrunch AI\nhttps://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Serverless MCP server for AI agent data lake access on Amazon ECS Fargate",
+      "url": "https://aws.amazon.com/blogs/machine-learning/serverless-mcp-server-for-ai-agent-data-lake-access-on-amazon-ecs-fargate/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-06T17:13:13Z"
+    },
+    {
+      "title": "Australian universities are creating AI-native graduates",
+      "url": "https://openai.com/index/australian-universities-ai-native-graduates",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-05T17:00:00Z"
+    },
+    {
+      "title": "Gemini Omni 1.2 Flash: Fast and cost-effective with longer clips",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-05T17:00:00Z"
+    },
+    {
+      "title": "Here’s the full text of Jensen Huang’s memo to Nvidia",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1029595/full-text-jensen-huang-affair-memo-nvidia",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-08T22:54:50Z"
+    },
+    {
+      "title": "Nvidia will investigate CEO Jensen Huang’s relationship with possible Chinese spy",
+      "url": "https://techcrunch.com/2026/11/08/nvidia-says-its-investigating-ceo-jensen-huangs-relationship-with-possible-chinese-spy/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-08T21:00:11Z"
+    }
+  ]
+}
