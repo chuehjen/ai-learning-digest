@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-10",
+  "generated_at_utc": "2026-11-10T04:39:47.279094Z",
+  "message": "【AI 每日动态｜11月10日】\n1. How skills and agents work in AWS Quick — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/\n2. ChatGPT Enterprise now available in AWS Marketplace — OpenAI\nhttps://openai.com/index/chatgpt-enterprise-aws-marketplace\n3. Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context — Hugging Face\nhttps://huggingface.co/blog/nvidia/nemotron-personas-finance-japan\n4. Anthropic reportedly plans to move forward with IPO plans — TechCrunch AI\nhttps://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/\n5. David Ellison says AI could be the ‘biggest creative unlock in modern history’ — The Verge AI\nhttps://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "How skills and agents work in AWS Quick",
+      "url": "https://aws.amazon.com/blogs/machine-learning/how-skills-and-agents-work-in-aws-quick/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-10T00:21:34Z"
+    },
+    {
+      "title": "ChatGPT Enterprise now available in AWS Marketplace",
+      "url": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-09T19:00:00Z"
+    },
+    {
+      "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-09T15:05:57Z"
+    },
+    {
+      "title": "Anthropic reportedly plans to move forward with IPO plans",
+      "url": "https://techcrunch.com/2026/11/09/anthropic-reportedly-plans-to-move-forward-with-ipo-plans/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-10T01:27:12Z"
+    },
+    {
+      "title": "David Ellison says AI could be the ‘biggest creative unlock in modern history’",
+      "url": "https://www.theverge.com/entertainment/1030510/paramount-skydance-david-ellison-ai",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-10T00:28:49Z"
+    }
+  ]
+}
