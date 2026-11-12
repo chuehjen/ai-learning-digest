@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-11",
-  "generated_at_utc": "2026-11-11T02:51:05.937625Z",
-  "message": "【AI 每日动态｜11月11日】\n1. Introducing Kimi K3.1 Pro on Amazon Bedrock — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/\n2. Gemini Intelligence: New features, on more devices — Google AI\nhttps://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/\n3. Helping caregivers use AI in everyday life — OpenAI\nhttps://openai.com/index/helping-caregivers-use-ai-in-everyday-life\n4. OpenAI acquires Odessia, travel startup created by Sonder founder — TechCrunch AI\nhttps://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/\n5. The US is winning the AI race. Jensen Huang could have blown it — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-12",
+  "generated_at_utc": "2026-11-12T03:52:20.961459Z",
+  "message": "【AI 每日动态｜11月12日】\n1. Build autonomous AI agents with Amazon Bedrock and Spring AI — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/\n2. Gilbert + Tobin rethinks the business of law with AI — OpenAI\nhttps://openai.com/index/gilbert-tobin-sam-nickless\n3. Gemini Decisions API: Fast, calibrated multimodal decisions — Google AI\nhttps://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\n4. Who could replace Jensen Huang? A highly unscientific list of possible successors — TechCrunch AI\nhttps://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/\n5. Nvidia is reportedly preparing to fire Jensen Huang — The Verge AI\nhttps://www.theverge.com/tech/1031652/jensen-huang-rumor\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Introducing Kimi K3.1 Pro on Amazon Bedrock",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-kimi-k3-1-pro-on-amazon-bedrock/",
+      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-11-11T01:07:19Z"
+      "published_at_utc": "2026-11-12T01:18:23Z"
     },
     {
-      "title": "Gemini Intelligence: New features, on more devices",
-      "url": "https://blog.google/products-and-platforms/platforms/android/gemini-intelligence-november-features-devices/",
-      "source": "Google AI",
-      "source_type": "primary",
-      "published_at_utc": "2026-11-10T19:00:00Z"
-    },
-    {
-      "title": "Helping caregivers use AI in everyday life",
-      "url": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
+      "title": "Gilbert + Tobin rethinks the business of law with AI",
+      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-11-10T12:00:00Z"
+      "published_at_utc": "2026-11-12T00:00:00Z"
     },
     {
-      "title": "OpenAI acquires Odessia, travel startup created by Sonder founder",
-      "url": "https://techcrunch.com/2026/11/10/openai-acquires-odessia-travel-startup-created-by-sonder-founder/",
+      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-11T18:00:00Z"
+    },
+    {
+      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
+      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-10T21:08:52Z"
+      "published_at_utc": "2026-11-12T03:13:10Z"
     },
     {
-      "title": "The US is winning the AI race. Jensen Huang could have blown it",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1031063/jensen-huang-ai-race-us-china-spy",
+      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
+      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-10T19:04:05Z"
+      "published_at_utc": "2026-11-11T22:44:36Z"
     }
   ]
 }
