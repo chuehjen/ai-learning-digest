@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-12",
-  "generated_at_utc": "2026-11-12T03:52:20.961459Z",
-  "message": "【AI 每日动态｜11月12日】\n1. Build autonomous AI agents with Amazon Bedrock and Spring AI — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/\n2. Gilbert + Tobin rethinks the business of law with AI — OpenAI\nhttps://openai.com/index/gilbert-tobin-sam-nickless\n3. Gemini Decisions API: Fast, calibrated multimodal decisions — Google AI\nhttps://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/\n4. Who could replace Jensen Huang? A highly unscientific list of possible successors — TechCrunch AI\nhttps://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/\n5. Nvidia is reportedly preparing to fire Jensen Huang — The Verge AI\nhttps://www.theverge.com/tech/1031652/jensen-huang-rumor\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-13",
+  "generated_at_utc": "2026-11-13T03:27:07.255255Z",
+  "message": "【AI 每日动态｜11月13日】\n1. Deploy frontier AI models on AWS Trainium with SGLang-Neuron — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/\n2. How Amplitude ships product improvements in 1–2 days with OpenAI — OpenAI\nhttps://openai.com/business/customer-stories/amplitude\n3. LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B — Hugging Face\nhttps://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite\n4. Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump — TechCrunch AI\nhttps://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/\n5. Google’s new Gemini model is better at understanding complicated questions — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Build autonomous AI agents with Amazon Bedrock and Spring AI",
-      "url": "https://aws.amazon.com/blogs/machine-learning/build-autonomous-ai-agents-with-amazon-bedrock-and-spring-ai/",
+      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
+      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-11-12T01:18:23Z"
+      "published_at_utc": "2026-11-12T22:03:34Z"
     },
     {
-      "title": "Gilbert + Tobin rethinks the business of law with AI",
-      "url": "https://openai.com/index/gilbert-tobin-sam-nickless",
+      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+      "url": "https://openai.com/business/customer-stories/amplitude",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-11-12T00:00:00Z"
+      "published_at_utc": "2026-11-12T20:00:00Z"
     },
     {
-      "title": "Gemini Decisions API: Fast, calibrated multimodal decisions",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-decisions-api/",
-      "source": "Google AI",
+      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
+      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-11-11T18:00:00Z"
+      "published_at_utc": "2026-11-12T19:07:35Z"
     },
     {
-      "title": "Who could replace Jensen Huang? A highly unscientific list of possible successors",
-      "url": "https://techcrunch.com/2026/11/11/who-could-replace-jensen-huang-a-highly-unscientific-list-of-possible-successors/",
+      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
+      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-12T03:13:10Z"
+      "published_at_utc": "2026-11-12T22:42:51Z"
     },
     {
-      "title": "Nvidia is reportedly preparing to fire Jensen Huang",
-      "url": "https://www.theverge.com/tech/1031652/jensen-huang-rumor",
+      "title": "Google’s new Gemini model is better at understanding complicated questions",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-11T22:44:36Z"
+      "published_at_utc": "2026-11-12T21:55:32Z"
     }
   ]
 }
