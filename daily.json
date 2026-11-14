@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-13",
-  "generated_at_utc": "2026-11-13T03:27:07.255255Z",
-  "message": "【AI 每日动态｜11月13日】\n1. Deploy frontier AI models on AWS Trainium with SGLang-Neuron — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/\n2. How Amplitude ships product improvements in 1–2 days with OpenAI — OpenAI\nhttps://openai.com/business/customer-stories/amplitude\n3. LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B — Hugging Face\nhttps://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite\n4. Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump — TechCrunch AI\nhttps://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/\n5. Google’s new Gemini model is better at understanding complicated questions — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-14",
+  "generated_at_utc": "2026-11-14T03:22:04.602694Z",
+  "message": "【AI 每日动态｜11月14日】\n1. Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1 — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/\n2. Build a Robot Pick-and-Place Simulation with SimReady Assets — Hugging Face\nhttps://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place\n3. Introducing ChatGPT Wallet — OpenAI\nhttps://openai.com/index/introducing-chatgpt-wallet\n4. Amazon has a plan to index the world’s online shopping data — The Verge AI\nhttps://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search\n5. Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say — TechCrunch AI\nhttps://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Deploy frontier AI models on AWS Trainium with SGLang-Neuron",
-      "url": "https://aws.amazon.com/blogs/machine-learning/deploy-frontier-ai-models-on-aws-trainium-with-sglang-neuron/",
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-11-12T22:03:34Z"
+      "published_at_utc": "2026-11-13T23:22:09Z"
     },
     {
-      "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-      "url": "https://openai.com/business/customer-stories/amplitude",
-      "source": "OpenAI",
-      "source_type": "primary",
-      "published_at_utc": "2026-11-12T20:00:00Z"
-    },
-    {
-      "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-      "url": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-11-12T19:07:35Z"
+      "published_at_utc": "2026-11-13T18:00:39Z"
     },
     {
-      "title": "Democrats launch Nvidia investigation, write scathing letter on Huang’s ‘scheme’ with Trump",
-      "url": "https://techcrunch.com/2026/11/12/democrats-launch-nvidia-investigation-write-scathing-letter-on-huangs-scheme-with-trump/",
-      "source": "TechCrunch AI",
-      "source_type": "press",
-      "published_at_utc": "2026-11-12T22:42:51Z"
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-13T15:00:00Z"
     },
     {
-      "title": "Google’s new Gemini model is better at understanding complicated questions",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-12T21:55:32Z"
+      "published_at_utc": "2026-11-13T23:49:11Z"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-13T22:43:00Z"
     }
   ]
 }

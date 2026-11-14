@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-14",
+  "generated_at_utc": "2026-11-14T03:22:04.602694Z",
+  "message": "【AI 每日动态｜11月14日】\n1. Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1 — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/\n2. Build a Robot Pick-and-Place Simulation with SimReady Assets — Hugging Face\nhttps://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place\n3. Introducing ChatGPT Wallet — OpenAI\nhttps://openai.com/index/introducing-chatgpt-wallet\n4. Amazon has a plan to index the world’s online shopping data — The Verge AI\nhttps://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search\n5. Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say — TechCrunch AI\nhttps://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Production MLOps at GS Caltex with Amazon SageMaker Canvas, part 1",
+      "url": "https://aws.amazon.com/blogs/machine-learning/production-mlops-at-gs-caltex-with-amazon-sagemaker-canvas-part-1/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-13T23:22:09Z"
+    },
+    {
+      "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
+      "url": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-13T18:00:39Z"
+    },
+    {
+      "title": "Introducing ChatGPT Wallet",
+      "url": "https://openai.com/index/introducing-chatgpt-wallet",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-13T15:00:00Z"
+    },
+    {
+      "title": "Amazon has a plan to index the world’s online shopping data",
+      "url": "https://www.theverge.com/tech/1033697/amazon-world-product-graph-ai-search",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-13T23:49:11Z"
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://techcrunch.com/2026/11/13/jensen-huangs-departure-blasts-big-hole-in-ai-startup-funding-vcs-and-founders-say/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-13T22:43:00Z"
+    }
+  ]
+}
