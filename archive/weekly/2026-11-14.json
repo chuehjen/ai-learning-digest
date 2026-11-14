@@ -1,0 +1,22 @@
+{
+  "schema_version": 1,
+  "kind": "weekly",
+  "date_bjt": "2026-11-14",
+  "generated_at_utc": "2026-11-14T06:35:19.655409Z",
+  "week_number": 5,
+  "message": "【AI 系统学习｜第5周｜评估与回归测试】\n主课视频：Automated Testing for LLMOps\nhttps://www.deeplearning.ai/short-courses/automated-testing-llmops\n配套播客：AI Fundamentals: Benchmarks 101\nhttps://www.latent.space/p/benchmarks-101\n本周 5 小时：看课与笔记 90 分钟；听播客 60 分钟；动手练习 120 分钟；复盘 30 分钟。\n练习：为一个 AI 功能写 10 条测试案例，包含漏答、误答和高风险错误。\n课程可能需要登录；以页面实际开放内容为准。",
+  "items": [
+    {
+      "title": "Automated Testing for LLMOps",
+      "url": "https://www.deeplearning.ai/short-courses/automated-testing-llmops",
+      "source": "Course",
+      "format": "video"
+    },
+    {
+      "title": "AI Fundamentals: Benchmarks 101",
+      "url": "https://www.latent.space/p/benchmarks-101",
+      "source": "Latent Space",
+      "format": "podcast"
+    }
+  ]
+}
