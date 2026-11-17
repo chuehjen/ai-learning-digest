@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-16",
-  "generated_at_utc": "2026-11-16T02:48:51.214342Z",
-  "message": "【AI 每日动态｜11月16日】\n1. A step toward defining the Standard Model on a lattice — OpenAI\nhttps://openai.com/index/step-toward-defining-the-standard-model\n2. Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/\n3. llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem — Hugging Face\nhttps://huggingface.co/blog/ggml-org/llama-cpp-v1\n4. Apple launches new app to study how people use AI for health — TechCrunch AI\nhttps://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/\n5. Apple’s new study looks to improve the effectiveness of AI health tools — The Verge AI\nhttps://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-17",
+  "generated_at_utc": "2026-11-17T05:06:42.162228Z",
+  "message": "【AI 每日动态｜11月17日】\n1. Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/\n2. Broadening access to AI for scientists — OpenAI\nhttps://openai.com/index/expanding-chatgpt-for-academic-researchers\n3. New Ask Maps features to help with holiday travel and prep — Google AI\nhttps://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/\n4. Cybersecurity AI startup Corma reaches $1B valuation in about 3 months — TechCrunch AI\nhttps://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/\n5. Tech leaders are convinced that Jensen Huang’s exit was a plot against him — The Verge AI\nhttps://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "source": "OpenAI",
-      "source_type": "primary",
-      "published_at_utc": "2026-11-15T22:00:01Z"
-    },
-    {
-      "title": "Architecture patterns for fast session startup on Amazon Bedrock AgentCore runtime",
-      "url": "https://aws.amazon.com/blogs/machine-learning/architecture-patterns-for-fast-session-startup-on-amazon-bedrock-agentcore-runtime/",
+      "title": "Build memory-aware AI agents with Agentic Retrieve on Amazon Bedrock Managed Knowledge Base",
+      "url": "https://aws.amazon.com/blogs/machine-learning/build-memory-aware-ai-agents-with-agentic-retrieve-on-amazon-bedrock-managed-knowledge-base/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-11-13T22:02:39Z"
+      "published_at_utc": "2026-11-16T22:43:30Z"
     },
     {
-      "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-      "url": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-      "source": "Hugging Face",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-11-13T14:05:22Z"
+      "published_at_utc": "2026-11-16T17:00:00Z"
     },
     {
-      "title": "Apple launches new app to study how people use AI for health",
-      "url": "https://techcrunch.com/2026/11/15/apple-launches-new-app-to-study-how-people-use-ai-for-health/",
+      "title": "New Ask Maps features to help with holiday travel and prep",
+      "url": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-16T14:00:00Z"
+    },
+    {
+      "title": "Cybersecurity AI startup Corma reaches $1B valuation in about 3 months",
+      "url": "https://techcrunch.com/2026/11/16/cybersecurity-ai-startup-corma-reaches-1b-valuation-in-about-3-months/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-16T01:30:00Z"
+      "published_at_utc": "2026-11-16T23:32:32Z"
     },
     {
-      "title": "Apple’s new study looks to improve the effectiveness of AI health tools",
-      "url": "https://www.theverge.com/tech/1033355/apples-new-study-looks-to-improve-the-effectiveness-of-ai-health-tools",
+      "title": "Tech leaders are convinced that Jensen Huang’s exit was a plot against him",
+      "url": "https://www.theverge.com/tech/1035027/tech-leaders-nvidia-jensen-huang-theories",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-16T01:26:56Z"
+      "published_at_utc": "2026-11-16T23:17:34Z"
     }
   ]
 }
