@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-18",
+  "generated_at_utc": "2026-11-18T04:29:55.876206Z",
+  "message": "【AI 每日动态｜11月18日】\n1. Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/\n2. Introducing GPT-6.2 Astra and Sol — OpenAI\nhttps://openai.com/index/introducing-gpt-6-2-astra-sol\n3. Put Gemini to work for you — Google AI\nhttps://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/\n4. Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt — TechCrunch AI\nhttps://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/\n5. Satya Nadella says he’s AGI-pilled now — The Verge AI\nhttps://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Managed NVIDIA Dynamo on Amazon SageMaker HyperPod Inference",
+      "url": "https://aws.amazon.com/blogs/machine-learning/managed-nvidia-dynamo-on-amazon-sagemaker-hyperpod-inference/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-17T23:33:26Z"
+    },
+    {
+      "title": "Introducing GPT-6.2 Astra and Sol",
+      "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-17T17:45:00Z"
+    },
+    {
+      "title": "Put Gemini to work for you",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-17T17:00:00Z"
+    },
+    {
+      "title": "Nvidia’s startup stakes ballooned to $65B, but Huang’s exit puts future deals in doubt",
+      "url": "https://techcrunch.com/2026/11/17/nvidias-startup-stakes-ballooned-to-65b-but-huangs-exit-puts-future-deals-in-doubt/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-18T01:44:21Z"
+    },
+    {
+      "title": "Satya Nadella says he’s AGI-pilled now",
+      "url": "https://www.theverge.com/tech/1036111/satya-nadella-says-hes-agi-pilled-now",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-17T23:41:18Z"
+    }
+  ]
+}
