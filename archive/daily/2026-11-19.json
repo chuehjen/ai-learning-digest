@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-19",
+  "generated_at_utc": "2026-11-19T04:14:20.087949Z",
+  "message": "【AI 每日动态｜11月19日】\n1. Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/\n2. DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency — Hugging Face\nhttps://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin\n3. The Gemini app is now available on lower-memory Android devices. — Google AI\nhttps://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/\n4. Microsoft CEO Satya Nadella explains why he asked 60K employees to quit — TechCrunch AI\nhttps://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/\n5. The nation’s largest school districts consider ditching Google Search — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Full Fine-Tuning (FFT) on SageMaker AI Serverless Model Customization",
+      "url": "https://aws.amazon.com/blogs/machine-learning/full-fine-tuning-fft-on-sagemaker-ai-serverless-model-customization/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-19T00:15:58Z"
+    },
+    {
+      "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
+      "url": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-18T19:54:56Z"
+    },
+    {
+      "title": "The Gemini app is now available on lower-memory Android devices.",
+      "url": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-18T17:00:00Z"
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella explains why he asked 60K employees to quit",
+      "url": "https://techcrunch.com/2026/11/18/microsoft-ceo-satya-nadella-explains-why-he-asked-60k-employees-to-quit/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-19T00:42:56Z"
+    },
+    {
+      "title": "The nation’s largest school districts consider ditching Google Search",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1037151/school-districts-ditching-google",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-18T23:18:35Z"
+    }
+  ]
+}
