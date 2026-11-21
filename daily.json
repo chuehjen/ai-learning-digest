@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-20",
-  "generated_at_utc": "2026-11-20T04:01:22.450949Z",
-  "message": "【AI 每日动态｜11月20日】\n1. Amazon SageMaker Inference: 2026 launches in review, part 2 — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/\n2. Introducing Tool Retrieval in the Gemini API — Google AI\nhttps://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/\n3. How OpenAI’s Performance Factory keeps ChatGPT fast — OpenAI\nhttps://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast\n4. Apple may be developing its own AI agent that runs your Mac — TechCrunch AI\nhttps://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/\n5. Apple is hiring engineers to build its own AI agent — The Verge AI\nhttps://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-21",
+  "generated_at_utc": "2026-11-21T04:00:26.101178Z",
+  "message": "【AI 每日动态｜11月21日】\n1. New in AWS Quick: More capable flows, an updated web experience, and agents that work together — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/\n2. Combatting adversarial distillation — OpenAI\nhttps://openai.com/index/combatting-adversarial-distillation\n3. Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup — Hugging Face\nhttps://huggingface.co/blog/inkling2mini\n4. Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building. — TechCrunch AI\nhttps://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/\n5. Trump threatens ‘tremendous tax’ for moving AI data centers outside the US — The Verge AI\nhttps://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Amazon SageMaker Inference: 2026 launches in review, part 2",
-      "url": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-inference-2026-launches-in-review-part-2/",
+      "title": "New in AWS Quick: More capable flows, an updated web experience, and agents that work together",
+      "url": "https://aws.amazon.com/blogs/machine-learning/new-in-aws-quick-more-capable-flows-an-updated-web-experience-and-agents-that-work-together/",
       "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-11-20T00:34:07Z"
+      "published_at_utc": "2026-11-21T01:06:42Z"
     },
     {
-      "title": "Introducing Tool Retrieval in the Gemini API",
-      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
-      "source": "Google AI",
-      "source_type": "primary",
-      "published_at_utc": "2026-11-19T18:00:00Z"
-    },
-    {
-      "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
-      "url": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+      "title": "Combatting adversarial distillation",
+      "url": "https://openai.com/index/combatting-adversarial-distillation",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-11-19T08:00:00Z"
+      "published_at_utc": "2026-11-20T10:00:00Z"
     },
     {
-      "title": "Apple may be developing its own AI agent that runs your Mac",
-      "url": "https://techcrunch.com/2026/11/19/apple-may-be-developing-its-own-ai-agent-that-runs-your-mac/",
+      "title": "Welcome Inkling 2 Mini, Cutting-edge Performance for your Local Setup",
+      "url": "https://huggingface.co/blog/inkling2mini",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-20T00:00:00Z"
+    },
+    {
+      "title": "Daniel Ek backs AI researcher’s fusion power startup. Here’s what they’re building.",
+      "url": "https://techcrunch.com/2026/11/20/daniel-ek-backs-ai-researchers-fusion-power-startup-heres-what-theyre-building/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-20T00:56:01Z"
+      "published_at_utc": "2026-11-20T19:53:41Z"
     },
     {
-      "title": "Apple is hiring engineers to build its own AI agent",
-      "url": "https://www.theverge.com/tech/1038227/apple-ai-agent-engineer-job-listing",
+      "title": "Trump threatens ‘tremendous tax’ for moving AI data centers outside the US",
+      "url": "https://www.theverge.com/policy/1038892/trump-foreign-data-centers-tax",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-19T22:31:41Z"
+      "published_at_utc": "2026-11-20T18:50:19Z"
     }
   ]
 }
