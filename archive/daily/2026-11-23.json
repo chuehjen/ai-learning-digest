@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-23",
+  "generated_at_utc": "2026-11-23T03:44:33.691532Z",
+  "message": "【AI 每日动态｜11月23日】\n1. Perplexity and Intelligence — OpenAI\nhttps://openai.com/index/perplexity-and-intelligence\n2. Cut self-hosted LLM cost and latency with the distributed KV caching agent skill — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/\n3. Walter Isaacson on curiosity and creativity in the AI age. — Google AI\nhttps://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/\n4. How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO — TechCrunch AI\nhttps://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/\n5. We haven’t seen the last of the major tech outages — The Verge AI\nhttps://www.theverge.com/tech/1039851/major-tech-outages\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Perplexity and Intelligence",
+      "url": "https://openai.com/index/perplexity-and-intelligence",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-22T00:00:00Z"
+    },
+    {
+      "title": "Cut self-hosted LLM cost and latency with the distributed KV caching agent skill",
+      "url": "https://aws.amazon.com/blogs/machine-learning/cut-self-hosted-llm-cost-and-latency-with-the-distributed-kv-caching-agent-skill/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-21T00:14:26Z"
+    },
+    {
+      "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+      "url": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-19T17:00:00Z"
+    },
+    {
+      "title": "How Notable Capital, GIC, and Baillie Gifford bet big on Anthropic before its IPO",
+      "url": "https://techcrunch.com/2026/11/22/how-notable-capital-gic-and-baillie-gifford-bet-big-on-anthropic-before-its-ipo/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-23T01:25:53Z"
+    },
+    {
+      "title": "We haven’t seen the last of the major tech outages",
+      "url": "https://www.theverge.com/tech/1039851/major-tech-outages",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-22T22:48:02Z"
+    }
+  ]
+}
