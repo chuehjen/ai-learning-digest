@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "kind": "daily",
+  "date_bjt": "2026-11-24",
+  "generated_at_utc": "2026-11-24T06:58:31.240930Z",
+  "message": "【AI 每日动态｜11月24日】\n1. Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/\n2. OpenAI and Cisco introduce Shirudo — OpenAI\nhttps://openai.com/index/introducing-shirudo\n3. RoboTrack: Point tracking for real-world robotic manipulation — Hugging Face\nhttps://huggingface.co/blog/allenai/robotrack\n4. Trump engineered a risky comeback for Jensen Huang — The Verge AI\nhttps://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated\n5. Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes — TechCrunch AI\nhttps://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "items": [
+    {
+      "title": "Introducing the Amazon Bedrock Trusted Access API with Anthropic’s Enterprise Frontier Safeguards and Enterprise Data Controls",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-the-amazon-bedrock-trusted-access-api-with-anthropics-enterprise-frontier-safeguards-and-enterprise-data-controls/",
+      "source": "AWS ML",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-24T05:01:14Z"
+    },
+    {
+      "title": "OpenAI and Cisco introduce Shirudo",
+      "url": "https://openai.com/index/introducing-shirudo",
+      "source": "OpenAI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-23T21:20:00Z"
+    },
+    {
+      "title": "RoboTrack: Point tracking for real-world robotic manipulation",
+      "url": "https://huggingface.co/blog/allenai/robotrack",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-23T17:20:37Z"
+    },
+    {
+      "title": "Trump engineered a risky comeback for Jensen Huang",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1040652/jensen-huang-nvidia-trump-reinstated",
+      "source": "The Verge AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-23T22:25:12Z"
+    },
+    {
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "url": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-23T22:05:50Z"
+    }
+  ]
+}
