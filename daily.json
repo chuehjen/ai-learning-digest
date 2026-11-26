@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-25",
-  "generated_at_utc": "2026-11-25T05:28:49.946817Z",
-  "message": "【AI 每日动态｜11月25日】\n1. Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton — Hugging Face\nhttps://huggingface.co/blog/nvidia/microduck-obstacle-avoidance\n2. How Gemini is changing the game for Golden State's organization and fans. — Google AI\nhttps://blog.google/products-and-platforms/products/gemini/gemini-golden-state/\n3. GPT-6 models demonstrate intrinsic protein-design capabilities — OpenAI\nhttps://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities\n4. Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion — TechCrunch AI\nhttps://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/\n5. Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired — The Verge AI\nhttps://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-26",
+  "generated_at_utc": "2026-11-26T05:09:07.840589Z",
+  "message": "【AI 每日动态｜11月26日】\n1. Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference — Hugging Face\nhttps://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin\n2. Searching for distant planets with Astra — OpenAI\nhttps://openai.com/index/searching-for-distant-planets-with-astra\n3. A more tailored Google Search that’s uniquely yours — Google AI\nhttps://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks — TechCrunch AI\nhttps://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future — The Verge AI\nhttps://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-      "url": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
+      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-11-24T16:34:13Z"
+      "published_at_utc": "2026-11-26T05:05:36Z"
     },
     {
-      "title": "How Gemini is changing the game for Golden State's organization and fans.",
-      "url": "https://blog.google/products-and-platforms/products/gemini/gemini-golden-state/",
-      "source": "Google AI",
-      "source_type": "primary",
-      "published_at_utc": "2026-11-24T16:00:00Z"
-    },
-    {
-      "title": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "title": "Searching for distant planets with Astra",
+      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-11-24T13:00:00Z"
+      "published_at_utc": "2026-11-24T11:00:00Z"
     },
     {
-      "title": "Yale’s Sonnenfeld: Nvidia is a ‘detriment’ to US industrial might — not a champion",
-      "url": "https://techcrunch.com/2026/11/24/yales-sonnenfeld-nvidia-is-a-detriment-to-u-s-industrial-might-not-a-champion/",
+      "title": "A more tailored Google Search that’s uniquely yours",
+      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
+      "source": "Google AI",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-23T17:00:00Z"
+    },
+    {
+      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
+      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-25T00:12:02Z"
+      "published_at_utc": "2026-11-25T22:44:32Z"
     },
     {
-      "title": "Jensen Huang reportedly tells Nvidia staff it’s ‘not true’ Trump got him rehired",
-      "url": "https://www.theverge.com/tech/1041571/jensen-huang-all-hands-nvidia-apology",
+      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
+      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-24T20:02:03Z"
+      "published_at_utc": "2026-11-25T21:51:26Z"
     }
   ]
 }
