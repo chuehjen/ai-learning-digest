@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-26",
-  "generated_at_utc": "2026-11-26T05:09:07.840589Z",
-  "message": "【AI 每日动态｜11月26日】\n1. Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference — Hugging Face\nhttps://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin\n2. Searching for distant planets with Astra — OpenAI\nhttps://openai.com/index/searching-for-distant-planets-with-astra\n3. A more tailored Google Search that’s uniquely yours — Google AI\nhttps://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/\n4. S&P considers Nvidia credit downgrade over governance and ‘key man’ risks — TechCrunch AI\nhttps://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/\n5. Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future — The Verge AI\nhttps://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-27",
+  "generated_at_utc": "2026-11-27T05:05:55.096609Z",
+  "message": "【AI 每日动态｜11月27日】\n1. Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon — Hugging Face\nhttps://huggingface.co/blog/ggml-org/llamacpp-amd-bench\n2. How Intentful uses dots to make more time for growth — OpenAI\nhttps://openai.com/business/customer-stories/intentful-dots\n3. Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/\n4. Nvidia hits pause on chip shipments to Southeast Asia — TechCrunch AI\nhttps://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. 42 state AGs are trying to stop Character.AI from selling users’ chats — The Verge AI\nhttps://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-11-26T05:05:36Z"
+      "published_at_utc": "2026-11-26T11:37:17Z"
     },
     {
-      "title": "Searching for distant planets with Astra",
-      "url": "https://openai.com/index/searching-for-distant-planets-with-astra",
+      "title": "How Intentful uses dots to make more time for growth",
+      "url": "https://openai.com/business/customer-stories/intentful-dots",
       "source": "OpenAI",
       "source_type": "primary",
-      "published_at_utc": "2026-11-24T11:00:00Z"
+      "published_at_utc": "2026-11-24T00:00:00Z"
     },
     {
-      "title": "A more tailored Google Search that’s uniquely yours",
-      "url": "https://blog.google/products-and-platforms/products/search/google-search-personal-intelligence-apps/",
-      "source": "Google AI",
+      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
+      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
+      "source": "AWS ML",
       "source_type": "primary",
-      "published_at_utc": "2026-11-23T17:00:00Z"
+      "published_at_utc": "2026-11-20T23:07:03Z"
     },
     {
-      "title": "S&P considers Nvidia credit downgrade over governance and ‘key man’ risks",
-      "url": "https://techcrunch.com/2026/11/25/sp-considers-nvidia-credit-downgrade-over-governance-and-key-man-risks/",
+      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
+      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
       "source": "TechCrunch AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-25T22:44:32Z"
+      "published_at_utc": "2026-11-26T20:03:54Z"
     },
     {
-      "title": "Google’s patent for custom AI video feeds paints a bleak picture of entertainment’s future",
-      "url": "https://www.theverge.com/entertainment/1042221/google-my-channel-ai-video-patent",
+      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
+      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-25T21:51:26Z"
+      "published_at_utc": "2026-11-26T09:54:40Z"
     }
   ]
 }
