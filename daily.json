@@ -1,44 +1,44 @@
 {
   "schema_version": 1,
   "kind": "daily",
-  "date_bjt": "2026-11-27",
-  "generated_at_utc": "2026-11-27T05:05:55.096609Z",
-  "message": "【AI 每日动态｜11月27日】\n1. Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon — Hugging Face\nhttps://huggingface.co/blog/ggml-org/llamacpp-amd-bench\n2. How Intentful uses dots to make more time for growth — OpenAI\nhttps://openai.com/business/customer-stories/intentful-dots\n3. Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm — AWS ML\nhttps://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/\n4. Nvidia hits pause on chip shipments to Southeast Asia — TechCrunch AI\nhttps://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/\n5. 42 state AGs are trying to stop Character.AI from selling users’ chats — The Verge AI\nhttps://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
+  "date_bjt": "2026-11-28",
+  "generated_at_utc": "2026-11-28T04:45:14.577317Z",
+  "message": "【AI 每日动态｜11月28日】\n1. Taking Trainium3 to the Track: Generating Videos with LTX-2.5 — Hugging Face\nhttps://huggingface.co/blog/video-trainium3\n2. How iFood scales coding agents across 15,000 repositories — OpenAI\nhttps://openai.com/business/customer-stories/ifood\n3. Android’s DIY widgets are a bit of vibe-coding fun — The Verge AI\nhttps://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini\n4. Grand Theft Auto VI proves why efficiency isn’t a virtue — TechCrunch AI\nhttps://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/\n5. Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems — Hugging Face\nhttps://huggingface.co/blog/training-swarms\n英文原文为主；标题与链接来自原发布方，供你挑选精读。",
   "items": [
     {
-      "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
-      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+      "url": "https://huggingface.co/blog/video-trainium3",
       "source": "Hugging Face",
       "source_type": "primary",
-      "published_at_utc": "2026-11-26T11:37:17Z"
+      "published_at_utc": "2026-11-27T00:00:00Z"
     },
     {
-      "title": "How Intentful uses dots to make more time for growth",
-      "url": "https://openai.com/business/customer-stories/intentful-dots",
+      "title": "How iFood scales coding agents across 15,000 repositories",
+      "url": "https://openai.com/business/customer-stories/ifood",
       "source": "OpenAI",
       "source_type": "primary",
       "published_at_utc": "2026-11-24T00:00:00Z"
     },
     {
-      "title": "Introducing managed cluster extensions for observability and user management in Amazon SageMaker HyperPod Slurm",
-      "url": "https://aws.amazon.com/blogs/machine-learning/introducing-managed-cluster-extensions-for-observability-and-user-management-in-amazon-sagemaker-hyperpod-slurm/",
-      "source": "AWS ML",
-      "source_type": "primary",
-      "published_at_utc": "2026-11-20T23:07:03Z"
-    },
-    {
-      "title": "Nvidia hits pause on chip shipments to Southeast Asia",
-      "url": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
-      "source": "TechCrunch AI",
-      "source_type": "press",
-      "published_at_utc": "2026-11-26T20:03:54Z"
-    },
-    {
-      "title": "42 state AGs are trying to stop Character.AI from selling users’ chats",
-      "url": "https://www.theverge.com/policy/1042620/character-ai-sale-state-ags-block-selling-users-chats",
+      "title": "Android’s DIY widgets are a bit of vibe-coding fun",
+      "url": "https://www.theverge.com/tech/1041801/android-intelligence-create-my-widget-gemini",
       "source": "The Verge AI",
       "source_type": "press",
-      "published_at_utc": "2026-11-26T09:54:40Z"
+      "published_at_utc": "2026-11-27T14:00:00Z"
+    },
+    {
+      "title": "Grand Theft Auto VI proves why efficiency isn’t a virtue",
+      "url": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "source": "TechCrunch AI",
+      "source_type": "press",
+      "published_at_utc": "2026-11-26T16:00:00Z"
+    },
+    {
+      "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+      "url": "https://huggingface.co/blog/training-swarms",
+      "source": "Hugging Face",
+      "source_type": "primary",
+      "published_at_utc": "2026-11-26T00:00:00Z"
     }
   ]
 }
