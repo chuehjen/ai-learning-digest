@@ -1,20 +1,20 @@
 {
   "schema_version": 1,
   "kind": "weekly",
-  "date_bjt": "2026-11-21",
-  "generated_at_utc": "2026-11-21T07:18:45.044316Z",
-  "week_number": 6,
-  "message": "【AI 系统学习｜第6周｜Agent 工作机制】\n主课视频：Agentic AI\nhttps://www.deeplearning.ai/courses/agentic-ai\n配套播客：Vercel's Andrew Qu on why agents are a new kind of software\nhttps://www.latent.space/p/vercel-agents-new-software\n本周 5 小时：看课与笔记 90 分钟；听播客 60 分钟；动手练习 120 分钟；复盘 30 分钟。\n练习：把一个任务拆成工具调用步骤，写清哪些步骤能自动执行、哪些必须人工批准。\n课程可能需要登录；以页面实际开放内容为准。",
+  "date_bjt": "2026-11-28",
+  "generated_at_utc": "2026-11-28T07:57:03.436032Z",
+  "week_number": 7,
+  "message": "【AI 系统学习｜第7周｜AI 产品机会判断】\n主课视频：Generative AI for Everyone\nhttps://www.deeplearning.ai/courses/generative-ai-for-everyone\n配套播客：ChatGPT, GPT4 hype, and Building LLM-native products\nhttps://www.latent.space/p/chatgpt-gpt4-hype-and-building-llm\n本周 5 小时：看课与笔记 90 分钟；听播客 60 分钟；动手练习 120 分钟；复盘 30 分钟。\n练习：列出 3 个产品机会，按用户价值、可验证性、总人工工时和风险排序。\n课程可能需要登录；以页面实际开放内容为准。",
   "items": [
     {
-      "title": "Agentic AI",
-      "url": "https://www.deeplearning.ai/courses/agentic-ai",
+      "title": "Generative AI for Everyone",
+      "url": "https://www.deeplearning.ai/courses/generative-ai-for-everyone",
       "source": "Course",
       "format": "video"
     },
     {
-      "title": "Vercel's Andrew Qu on why agents are a new kind of software",
-      "url": "https://www.latent.space/p/vercel-agents-new-software",
+      "title": "ChatGPT, GPT4 hype, and Building LLM-native products",
+      "url": "https://www.latent.space/p/chatgpt-gpt4-hype-and-building-llm",
       "source": "Latent Space",
       "format": "podcast"
     }
